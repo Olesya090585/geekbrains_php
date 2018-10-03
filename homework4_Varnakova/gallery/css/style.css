@@ -11,7 +11,7 @@
     height: 170px;
     float: left;
     text-align: center;
-    margin: 0px 15px 15px 0px;
+    margin: 0 15px 15px 0;
 }
 .item > div{
     position: relative;
